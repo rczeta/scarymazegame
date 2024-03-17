@@ -26,26 +26,32 @@ h1 {
 #level1 {
   background-image: url("../img/level1.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #level2 {
   background-image: url("../img/level2.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #level3 {
   background-image: url("../img/level3.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #level4 {
   background-image: url("../img/level4.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #level5 {
   background-image: url("../img/level5.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #level6 {
   background-image: url("../img/level6.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 img {
